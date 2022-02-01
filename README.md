@@ -53,5 +53,5 @@ if ( !search ) {
 
 That way, you don't have to repeat calling toLowerCase() in the conditional.
 
-# LIVE SITE #
-[Grocery List](https://a2uuz.github.io/grocery-list/)
+<!-- # LIVE SITE #
+[Grocery List](https://a2uuz.github.io/grocery-list/) -->
